@@ -1,5 +1,4 @@
 import sys
-import rocket_env
 sys.path.append('../keras-rl')
 import gym
 import numpy as np
