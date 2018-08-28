@@ -1,5 +1,5 @@
 # lunarDQfD
-This repo contains the scripts needed to generate the results found in [Lunar Landings from Demonstrations](https://medium.com/p/27b553b00ce2/edit).
+This repo contains the scripts needed to generate the results found in [Lunar Landings from Demonstrations](https://towardsdatascience.com/lunar-landings-from-demonstrations-27b553b00ce2).
 
 ### Usage
 ##### Install
